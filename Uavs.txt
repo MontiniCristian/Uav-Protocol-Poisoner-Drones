@@ -1,0 +1,97 @@
+An Uav is an aircraft that flies without a human on-board the aircraft.
+It is also
+defined as a reusable, unmanned vehicle capable of controlled, sustained,
+level flight and powered by a jet or reciprocating engine. One UAV can
+do a lot of things for human beings. The greatest uses of UAV are in
+military applications. It is also used in a small but growing number of
+civil applications.
+
+
+
+The abbreviation UAV has been expanded in some cases to
+UAVs (unmanned-aircraft vehicle system). The reason why it has
+expanded is to reflect the fact that these are not just aircraft, but systems,
+including ground stations and other elements.
+
+
+
+UAVs can be used in a lot of different areas. They can be used for
+remote sensing, transport, scientific research, armed attacks, search and
+rescue.
+Since UAVs are used for different kinds of missions, there is a
+wide variety of UAV shapes, sizes, configurations, and characteristics.
+From the figure shown in this section, some features of different types of
+UAVs can be found. Range, flight altitude, endurance, maximum weights
+are all decisive factors. Different quantities of the arguments decide the
+usage of the UAVs
+
+
+
+Wireless communication is the transfer of information over a
+distance without the use of enhanced electrical conductors or "wires". The
+distances involved may be short (a few meters as in television remote
+control) or long (thousands or millions of kilometers for radio
+communications). Wireless communication is generally considered to be
+a branch of telecommunications.
+
+
+
+Since UAV can move quickly and flexibly, it is absolutely
+impossible to do the communication by using wire when they are flying.
+Even using wireless techniques, the flying attitude and the speed of UAV
+should be considered. However, there is also a number of advantages
+when UAV using wireless networking.
+
+1. UAVs can provide on-demand, high-quality communication
+due to line-of-sight signal propagation.
+
+2. UAVs can be sensing and data fusion nodes dynamically deployable in the region of interest.
+
+3. UAVs can tailor their flight paths to enhance the quality of wireless networking and communication.
+
+4. UAVs can themselves carry and forward huge amounts of data.
+
+
+
+Factors affecting UAVs’ Communication:
+
+There are some factors which should be considered when UAVs
+communicate. One of them is spectrum efficiency. It refers to the
+information rate that can be transmitted over a given bandwidth in a
+specific communication system. As known, study about bandwidth is
+very important when it comes to data transmissions. A higher data rate
+can provide data transmission in a shorter time.
+Another important factor is endurance. When UAVs are flying in
+the sky, they need energy to maintain their flight. The energy is a limited
+resource, especially for small UAVs. When UAVs transmit data, range
+and data rate are dependent upon the available/used energy in the aircraft.
+In military application field, there are also several other subjects
+which could be focused on, such as: relay capability, data security, among
+others.
+
+
+
+Requirements Specifications:
+
+By using the wireless technique and considering some influential
+factors and realistic conditions, the goal is to accomplish the
+communication among small UAVs, which are called “mini” UAVs. The
+range for a mini UAV is less than 10km, and the flight attitude is less than
+300 meters. It is believed that the energy can endure for about 2 hours.
+The maximum weight at which the mini can be loaded is 30kg.
+The transmit data is chosen to be text-based, for example,
+mission commands or flight status data. When another UAV receives a
+command, it sends back an acknowledge. The speed of the UAV
+supposed to be around 10m/s (maximum). It is known that the distance is
+inversely proportional to the data rate. For good performance, the data
+rate is needed to be higher than 100Kps.
+One device operating, based on the wireless technique, would be
+chosen for simulating communication. In the next chapter, after a series
+of introductions, a comparison and evaluation will be undertaken.
+Through the evaluation, a solution will be proposed to choose the proper
+protocol and the device to be used in the practical part of the work.
+
+
+
+
+
